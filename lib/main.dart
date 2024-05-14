@@ -8,7 +8,7 @@ void main() {
     ChangeNotifierProvider(
       create: (_) => CommonValuesProvider(),
       child: const MaterialApp(
-        debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: true,
         title: 'Battleships',
         home: LoginPage(),
       ),
