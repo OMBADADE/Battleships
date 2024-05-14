@@ -9,7 +9,6 @@ First the Login Page will be there where you can login and if you are a new user
 
 
 
-
 After login in successfully you come to the game screen where you can see if there are any games going on.
 <img width="812" alt="Screenshot 2024-05-13 at 20 12 49" src="https://github.com/OMBADADE/Battleships/assets/159367518/2cf48a82-5ff4-4929-a916-01af9759e342">
 
